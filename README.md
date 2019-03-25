@@ -1,6 +1,6 @@
 # Multilingual Chat App.
 
-Translate chatroom messages in realtime with Chatkit and Amazon Translate. Tutorial:
+Translate chatroom messages in realtime with Chatkit and Amazon Translate. Tutorial: https://pusher.com/tutorials/multilingual-chat-react-amazon-translate
 
 ## Getting Started
 
